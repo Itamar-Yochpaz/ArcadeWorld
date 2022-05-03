@@ -7,5 +7,5 @@ Python software that combines two types of games:
 
 2. Guess the number - the goal is to correctly guess a random number between 1 and 1000.
    After each guess an output is displayed designed to help towards the next guess.
-   After a correct guess, you can reset the game with at a click of a button and guess again.
+   After a correct guess, you need to reset the game in order to guess again.
    You can view the minimum amount of guesses you needed to guess the number.
